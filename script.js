@@ -1,4 +1,4 @@
-let level=document.getElementByID("level");
+let level=document.getElementById("level");
 
 let domLevel=1;
 
